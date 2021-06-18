@@ -9,3 +9,10 @@ Click "Yes, do it!" to continue.
 ![image](https://user-images.githubusercontent.com/39455804/111616751-8d6cab80-87e2-11eb-983a-b7656f3d7654.png)
 
 #### ⚠️ Always keep the token a secret, as that is the equivalent to your bot's password. Anyone with the token can log in as your bot.
+
+# Inviting your bot to your server
+1. Get the Client ID by navigating to the "General Information" tab under settings<br>
+2. Click "Copy" under Client ID<br>
+![image](https://user-images.githubusercontent.com/39455804/111648559-c8330b80-8803-11eb-920e-7f4d8d1ae41f.png)<br>
+3. Replace "INSERT_CLIENT_ID_HERE" with your Client ID:<br>https://<span></span>discord.com/oauth2/authorize?client_id=`INSERT_CLIENT_ID_HERE`&scope=bot&permissions=3072
+4. Go to that URL
